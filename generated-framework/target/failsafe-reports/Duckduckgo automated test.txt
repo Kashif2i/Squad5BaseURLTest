@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: Duckduckgo automated test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 16.68 s <<< FAILURE! - in Duckduckgo automated test
+Duckduckgo automated test.Navigating to duck duck go and search for the gov.uk website  Time elapsed: 16.68 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+Timed out after 2 seconds. Element not found
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '2I059', ip: '192.168.1.230', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14.1'
+Driver info: driver.version: unknown
+

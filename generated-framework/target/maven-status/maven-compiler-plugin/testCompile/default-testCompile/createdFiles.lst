@@ -1,0 +1,7 @@
+CucumberTestSuite.class
+API\stepdefinitions\APISteps.class
+UI\pages\DuckDuckGoPage.class
+API\requests\ApiBasePage.class
+UI\pages\BasePage.class
+UI\stepdefinitions\UISteps.class
+API\requests\JsonParsing.class

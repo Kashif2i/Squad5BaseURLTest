@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automated API Test using restassured","GET employee data","SUCCESS","2022-05-04T16:42:54.8914453+01:00[Europe/London]","0.0","6.83"
+"Duckduckgo automated test","Navigating to duck duck go and search for the gov.uk website","ERROR","2022-05-04T16:42:54.6988152+01:00[Europe/London]","0.0","15.95"
